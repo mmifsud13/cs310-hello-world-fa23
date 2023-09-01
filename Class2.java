@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Matthew Mifsud
  */
 
 public class Class2 {
